@@ -80,8 +80,3 @@ project/
 Made with ❤️ by Hrishikesh Nikam
 > *Built for learning, wellness, and the power of AI.*
 
-```
-
----
-
-Would you like a **custom app icon**, a **splash screen**, or to turn this into a **public portfolio project**? I can help with those too!
